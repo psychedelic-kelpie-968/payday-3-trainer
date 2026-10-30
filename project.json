@@ -1,0 +1,22 @@
+{
+  "name": "payday-3-trainer",
+  "displayName": "PAYDAY 3 Trainer",
+  "programType": "trainer",
+  "repositoryContents": "Project documentation and artwork",
+  "downloadPage": "https://meteoric-rook-835.github.io/",
+  "descriptionSource": "Project owner",
+  "sections": [
+    "Player parameters",
+    "Equipment groups",
+    "Mission notes"
+  ],
+  "topics": [
+    "payday-3-trainer",
+    "payday-3-tools",
+    "payday-3-menu",
+    "payday-3-settings",
+    "payday-3-configs",
+    "payday-3-player-parameters",
+    "payday-3-equipment-groups"
+  ]
+}
